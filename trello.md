@@ -101,10 +101,9 @@ This board currently has no labels. If you think it should, suggest some!
 | Label | Color | Description |
 |-|-|-|
 | Approved | <span style='color:green'>Green</span> | The content in the card has been approved. |
-| Waiting For Lawyer Feedback | <span style='color:gold'>Yellow</span> | This card is waiting on lawyer feedback to continue. |
-| In Internal Review | <span style='color:orange'>Orange</span> | This card is currently in internal review. |
-| Meeting Scheduled | <span style='color:purple'>Purple</span> | This card pertains to a meeting being scheduled with the lawyers. |
-| Filed Awaiting Feedback From Feds | <span style='color:blue'>Blue</span> | This card contains something that's been filed internally and is awaiting feedback from the Federal Gov't. |
+| Lawyer Collaboration | <span style='color:gold'>Yellow</span> | This card is waiting on further collaboration with lawyers before continuing. |
+| Internal Review | <span style='color:orange'>Orange</span> | The card is currently in internal review. |
+| Pending 3rd party feedback | <span style='color:blue'>Blue</span> | This card contains something that's been filed/submitted to a 3rd party and is waiting for feedback before continuing. |
 
 ###### Marketing
 
@@ -112,7 +111,7 @@ This board currently has no labels. If you think it should, suggest some!
 |-|-|-|
 | On Going | <span style='color:green'>Green</span> | This card is still on going. |
 | Very Promising | <span style='color:gold'>Yellow</span> | This card contains a promising lead. |
-| In Need Of Resources | <span style='color:orange'>Orange</span> | This card is in need or resources in order to continue. |
+| In Need Of Resources | <span style='color:orange'>Orange</span> | This card is in need of resources before continuing. |
 | Immediate Action | <span style='color:red'>Red</span> | This card requires immediate action. |
 | Get In Touch | <span style='color:blue'>Blue</span> | This card pertains to getting in touch with an individual/group. |
 
