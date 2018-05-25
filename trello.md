@@ -72,6 +72,7 @@ Select the necessary labels that apply to the card you're creating. These may va
 | Closed | ![#64bc55](https://placehold.it/50/64bc55/000000?text=+) | The goal of the card has been completed. |
 | Open | ![#FDAA54](https://placehold.it/50/FDAA54/000000?text=+) | The card is open and still in progress. |
 | Immediate | ![#E95B4B](https://placehold.it/50/E95B4B/000000?text=+) | The card requires immediate attention. |
+| Feedback | ![#F7E837](https://placehold.it/50/E95B4B/000000?text=+) | Feedback has been requested for recent additions. If you're a member of a card please add feedback as a comment ASAP |
 
 ###### Data Analysis
 
